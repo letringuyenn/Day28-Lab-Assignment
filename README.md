@@ -2,6 +2,8 @@
 
 AI platform với kiến trúc hybrid (Local + Kaggle GPU) sử dụng Prefect, Kafka, Qdrant, Prometheus, Grafana.
 
+> **Kaggle Notebook đang dùng cho project này:** chạy trên GPU P100, truy cập qua Kaggle Jupyter proxy (link phiên làm việc — không lưu trực tiếp trong repo vì gắn với token phiên có thể hết hạn/đổi mỗi lần chạy). Xem link hiện tại trong Kaggle → Notebooks → phiên đang active.
+
 ## Kiến trúc
 
 ```

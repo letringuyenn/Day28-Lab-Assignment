@@ -146,6 +146,9 @@ rabbitmq-data/
 # ActiveMQ
 activemq-data/
 
+# Runtime pipeline output (generated locally, not source)
+delta-lake/raw/*.parquet
+
 # SageMath parsed files
 *.sage.py
 
