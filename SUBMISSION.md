@@ -2,8 +2,8 @@
 
 ## Thông Tin Sinh Viên
 
-- **Họ tên:** Trảo An Huy
-- **MSSV:** 2A202600819
+- **Họ tên:** Lê Trí Nguyên
+- **MSSV:** 2A202600651
 
 ## Yêu Cầu Nộp Bài
 
